@@ -1,0 +1,11 @@
+1.package come.pojo中class
+2.package come.pojo中student
+3.package come.db中DbConnection
+4.package come.dao中DbHelperDao
+5.package come.dao中IStudentDao
+6.package come.dao中StudentDao
+7.package come.biz中IStudentBiz
+8.package come.biz中StudentBiz
+9.web.xml
+10.stuadd.jsp
+11.doService.jsp
